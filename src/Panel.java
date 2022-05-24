@@ -52,6 +52,6 @@ public class Panel extends JPanel implements Runnable {
 
     @Override
     public void paintComponent(Graphics g) {
-
+        // Draw here
     }
 }
